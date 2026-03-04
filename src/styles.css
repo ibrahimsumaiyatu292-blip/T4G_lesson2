@@ -1,0 +1,45 @@
+/* p{
+    background-color: blue;
+} */
+ /*.logo-and-nav{
+    display: flex;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+} */
+
+/*topography */
+h1{
+    font-family: fantasy;
+    font-size: 50px;
+}
+
+.paragraph{
+    font-weight:bolder;
+    letter-spacing: 3px; */
+    word-spacing: 3px;
+    line-height: 30px;
+    text-align: justify;
+    color: red;
+    background-color: rgb(29, 23, 15);
+}
+
+#paragraph{
+    opacity:0.8; 
+    background-color: white; */
+}
+
+header .hero-div{
+    width: 100%;
+    height: 400px;
+    background-image: url('../images/Fruit2.jpg');
+}
+/* .hero-div{
+    width: 100%;
+    height: 400px;
+    background-image: url('../images/Fruit2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-color: blue;
+} */
